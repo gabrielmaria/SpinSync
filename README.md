@@ -1,24 +1,24 @@
-# Music Albums Sharing Website
+# SpinSync - Music Albums Sharing Website
 
 ## Description
 
-This project is a web application designed to facilitate the sharing and discovery of music albums. It is built using MongoDB, Node.js, and React to provide a seamless and interactive experience for users to explore and share their favorite albums.
+SpinSync is a web application designed to streamline the sharing and discovery of music albums. Built with MongoDB, Node.js, and React, SpinSync provides users with an intuitive platform to explore and share their favorite albums seamlessly.
 
 ## Features
 
 - User registration and authentication
-- Uploading and sharing music albums
-- Browsing and searching for albums
-- User profiles and album collections
-- Responsive design for various devices
+- Album uploading and sharing
+- Intuitive album browsing and search functionality
+- User profiles with personalized album collections
+- Responsive design for optimal user experience on various devices
 
 ## Technologies Used
 
-- MongoDB: A NoSQL database for storing user information, album data, and more.
-- Node.js: A JavaScript runtime for building the server-side of the application.
-- Express: A web application framework for Node.js to simplify server-side development.
-- React: A JavaScript library for building user interfaces, providing a dynamic and interactive front end.
-- Other dependencies: [List any other major dependencies or libraries used]
+- MongoDB: NoSQL database for storing user information, album data, and more.
+- Node.js: JavaScript runtime for server-side development.
+- Express: Web application framework for Node.js, simplifying server-side development.
+- React: JavaScript library for building dynamic and interactive user interfaces.
+- [List any other major dependencies or libraries used]
 
 ## Getting Started
 
@@ -31,4 +31,4 @@ This project is a web application designed to facilitate the sharing and discove
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/music-albums-website.git
+   git clone https://github.com/your-username/spinsync.git
